@@ -70,11 +70,11 @@ const MoviePage = () => {
         </div>
       </div>
       <div className="row">
-        <div className="col text-center">
+        <div className="col text-center p-3">
           <button
             onClick={getVideoHandler}
             type="button"
-            A
+            className="btn green btn-md"
             data-bs-toggle="modal"
             data-bs-target="#exampleModal"
           >

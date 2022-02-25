@@ -34,7 +34,7 @@ const MyList = () => {
                       deleteMovieHandler(list.id);
                     }}
                     type="button"
-                    class="btn btn-outline-success btn-sm"
+                    className="btn red btn-md"
                   >
                     Delete
                   </button>

@@ -40,7 +40,7 @@ const Modal = (props) => {
           <div class="modal-footer">
             <button
               type="button"
-              class="btn btn-secondary"
+              class="btn red btn-md"
               data-bs-dismiss="modal"
             >
               Close
